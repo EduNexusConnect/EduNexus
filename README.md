@@ -1,11 +1,10 @@
 # 项目标题
 
-[![GitHub license](https://img.shields.io/github/license/user/repo)](链接) 
+ClassIsland-Mobile-Platform
 
 ## 功能特性
-- ✅ 功能1
-- 🚧 功能2（开发中）
+-[ ]敬请期待
 
-## 快速安装
-```bash
-npm install my-package
+## 开始时间
+- 🚧 预计2025.6月开始
+
