@@ -1,5 +1,6 @@
 # ClassIsland-Mobile-Platform (WIP)
 画饼ing..... ~~（hh,我连readme.md都不会写）~~
+- 经过思考后，预计采用Flutter框架开发，但以实际为准。
 ## 功能特性
 - 🚧 敬请期待
 - 如果有啥好的建议可以提交pr或提交issue
