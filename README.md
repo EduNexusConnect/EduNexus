@@ -94,7 +94,9 @@
 欢迎参与社区共建！  
 1. Fork 仓库并创建分支 `feat/your-feature-name`  
 2. 提交 PR 时附带清晰的变更描述  
-3. 参与讨论：[Discord 频道](https://discord.gg/edunexus)  
+3. 参与讨论：[Discord 频道](https://discord.gg/sad75tMk)
+            [QQ频道](https://pd.qq.com/s/gsjuaodj)
+            [QQ群](https://qm.qq.com/q/VBP9XjU1yO)
 
 ---
 
